@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @femas1. Currently I am learning web development, focussing on Vanilla JS. 
-- 🌱 As I have been stuck in tutorial hell, I started practicing my skills joining challenges from frontendmentor.io.
+- 🌱 Currently building my portfolio
 - 🎯 My goal is to start my career as a web developer in 2023.
