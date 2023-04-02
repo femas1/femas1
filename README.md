@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @femas1. Currently I am learning web development, focussing on Vanilla JS. 
-- 🌱 Currently building my portfolio
-- 🎯 My goal is to start my career as a web developer in 2023.
+- 👋 Hi, I’m @femas1, frontend developer (still in the learning phase). My current focus is on React. 
+- 🌱 At the same time I am building my personal portfolio.
+- 🎯 My goal is to start my career as a frontend web developer in 2023.
